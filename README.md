@@ -1,5 +1,9 @@
-# 💫 About Me:
-HI! I am Neha Masurkar !<br>I am passionate about Data Science, Uncovering Patterns, and Shaping the Future with Insights
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm <a href="https://www.datascienceportfol.io/myliemudaliyar" >Neha</a>!</h1>
+<!-- <a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hi%F0%9F%91%8B+I+am+Neha+Masurkar" alt="Typing SVG" align ="left" /></a>
+ -->
+<div align="center">
+<br>I am passionate about Data Science, Uncovering Patterns, and Shaping the Future with Insights
 
 
 # 💻 Tech Stack:
