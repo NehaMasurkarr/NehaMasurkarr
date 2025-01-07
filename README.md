@@ -6,11 +6,16 @@
 <div align="center">
 <br/><a href="https://github.com/NehaMasurkarr">Data Scientist</a>, <a href="https://www.linkedin.com/in/neha-masurkar-374383275">Machine Learning Enthusiast</a>, <a href="https://github.com/NehaMasurkarr">Skilled in Data Analysis</a></h1>
 
- 
+
 - 🌱 I’m certified AWS Cloud Solutions Architect
 
 - 📫 How to reach me **nehasmasurkar@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nehasitarammasurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Neha Masurkar" height="30" width="40" /></a>
+
+</p>
 
 
 # 💻 Tech Stack:
