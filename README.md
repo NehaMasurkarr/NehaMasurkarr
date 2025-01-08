@@ -4,7 +4,7 @@
 <!-- <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hi%F0%9F%91%8B+I+am+Neha+Masurkar" alt="Typing SVG" align ="left" /></a>
  -->
 <div align="center">
-<br/><a href="https://github.com/NehaMasurkarr">Data Scientist</a>, <a href="https://www.linkedin.com/in/neha-masurkar-374383275">Machine Learning Enthusiast</a>, <a href="https://github.com/NehaMasurkarr">Skilled in Data Analysis</a></h1>
+<br/><a href="https://github.com/NehaMasurkarr">Data Scientist</a>, <a href="https://www.linkedin.com/in/nehasitarammasurkar">Machine Learning Enthusiast</a>, <a href="https://github.com/NehaMasurkarr">Skilled in Data Analysis</a></h1>
 
 
 - 🌱 I’m certified AWS Cloud Solutions Architect
