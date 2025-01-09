@@ -6,6 +6,7 @@
 
 - 📚 I'm a **Computer Science Engineering (Data Science) graduate** (2024) from [D.J. Sanghvi College of Engineering.](https://www.djsce.ac.in/)
 - 📚 I am currently pursuing a Master's degree in **Data Science** at [Stevens Institute of Technology.](https://www.stevens.edu/)
+- 🌱 I’m certified AWS Cloud Solutions Architect
 - 🌱 Throughout my course, I've learnt about Machine Learning, Artificial Intelligence, Social Network Analysis, Front-End Web Development and Data Structures-Algorithms.
 
 <!-- Contact -->
