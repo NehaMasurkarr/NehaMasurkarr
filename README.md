@@ -30,10 +30,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NehaMasurkarr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🙏 Resources Credits 
-- <a target="_blank" href="https://github.com/devicons/devicon">Most icons in <em>Skills</em> section - DevIcon</a> 
-- <a target="_blank" href="https://github.com/tandpfun/skill-icons">LinkedIn, IntelliJ, Adobe icons - Skill Icons</a> 
-
-<img src="assets/only-bg.gif" alt="footer banner">
-<!-- Footer border -->
-<img src="assets/line_divider_color.png" alt="bottomDivider">
