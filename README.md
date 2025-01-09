@@ -10,12 +10,14 @@
 
 <!-- Contact -->
 <!-- Contact -->
-<p><strong>📫 Connect with me: </strong>&nbsp;
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....*** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+<p>
+  
   <a href="mailto:nehasmasurkar@gmail.com">
-    <img width="25" src="https://github.com/NehaMasurkarr/NehaMasurkarr/blob/main/icons8-gmail-48.png?raw=true" alt="Gmail"/>
+    <img width="45" src="https://github.com/NehaMasurkarr/NehaMasurkarr/blob/main/icons8-gmail-48.png?raw=true" alt="Gmail"/>
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/nehasitarammasurkar/">
-    <img width="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn"/>
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn"/>
   </a> &nbsp;
 </p>
 
