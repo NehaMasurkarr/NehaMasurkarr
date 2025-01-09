@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm <a href="https://www.datascienceportfol.io/myliemudaliyar" >Neha Masurkar</a>!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Neha Masurkar</a>!</h1>
 
 <!-- Brief Description -->
 ### 📃 What am I upto?
