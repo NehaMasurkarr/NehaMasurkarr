@@ -10,9 +10,9 @@
 
 <!-- Contact -->
 <!-- Contact -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Connect with me :** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
-<p>
-  
+
+
+  <p><strong>📫 Connect with me: </strong>&nbsp;
   <a href="mailto:nehasmasurkar@gmail.com">
     <img width="45" src="https://github.com/NehaMasurkarr/NehaMasurkarr/blob/main/icons8-gmail-48.png?raw=true" alt="Gmail"/>
   </a> &nbsp;
